@@ -1,0 +1,23 @@
+{
+  "name": "swallowbhk",
+  "version": "1.0.0",
+  "description": "雁歸小管家",
+  "main": "SwallowBHK.js",
+  "dependencies": {
+    "discord.js-image-logger": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node SwallowBHK.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necro-wbj/SwallowBHK.git"
+  },
+  "author": "wbj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necro-wbj/SwallowBHK/issues"
+  },
+  "homepage": "https://github.com/necro-wbj/SwallowBHK#readme"
+}
